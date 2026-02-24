@@ -9,6 +9,7 @@ st.set_page_config(page_title="AI Color Palette", layout="centered")
 
 st.title("🎨 AI Color Palette Extractor")
 st.markdown(f"**Developed by Rukshan Weerasekara** | Creative Technologist")
+st.markdown("---")
 st.markdown("Upload an image to extract its dominant color palette using Machine Learning.")
 
 # File Uploader 
