@@ -3,7 +3,7 @@
 An intelligent Machine Learning tool designed to analyze images and extract professional color palettes. This tool helps creatives find the dominant aesthetic of any visual asset instantly.
 
 ## 🔗 Live Demo
-Check out the live app here: [https://ai-color-palette-yourlink.streamlit.app/]([https://ai-color-palette-yourlink.streamlit.app/](https://ai-colour-palette-extractor-q9bj6c9hdlxqkavih9572d.streamlit.app/))
+Check out the live app here: [https://ai-colour-palette-extractor-q9bj6c9hdlxqkavih9572d.streamlit.app/]([https://ai-color-palette-yourlink.streamlit.app/](https://ai-colour-palette-extractor-q9bj6c9hdlxqkavih9572d.streamlit.app/))
 
 ## 🚀 Project Overview
 As a **Creative Technologist and Animator**, I built this tool to bridge the gap between Data Science and Design. Choosing the right color scheme is essential in high-end animation and video production. This application automates that process using **Unsupervised Machine Learning**.
